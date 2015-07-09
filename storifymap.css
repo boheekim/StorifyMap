@@ -1,0 +1,76 @@
+#map { 
+	height: 500px; 
+}
+
+#jeb {
+	color: #C00606;
+	font-weight: bold;
+}
+
+#hillary {
+	color: #1906C0;
+	font-weight: bold;
+}
+
+#col-md-8 {
+	padding-right: 15px;
+}
+
+#title {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+#title p {
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+#story {
+	height: 500px;
+	overflow: hidden;
+}
+
+#tabs {
+	height: 440px;
+	overflow: scroll;
+}
+
+
+#twitter-tweet {
+	margin: 0;
+   	position: absolute;  
+	top: 50%;
+}
+body {
+  padding : 10px ;
+  
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	background-color: #E7E7E7;
+	color: black;
+}
+
+#content .nav-tabs > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#content .tab-content {
+/*//  color : white;*/
+  background-color: #E7E7E7;
+  padding : 5px 15px;
+}
+
+
+
+
+
